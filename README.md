@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 ### 👩‍💻 About me 
 * 🌍 *Living in Spain*
-* 💻 *A computer engineering student* 
+* 💻 *Studying computer engineering* 
 
 
 
