@@ -1,4 +1,7 @@
 <!---
+![Welcome to my profile](https://github.com/esthercamacho/esthercamacho/blob/main/img/visualstudio_esther.png)
+--->
+<!---
 - 👋 Hi, I’m @esthercamacho
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
