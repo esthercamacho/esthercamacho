@@ -1,5 +1,5 @@
 <!---
-![Welcome to my profile](https://github.com/esthercamacho/esthercamacho/blob/main/img/visualstudio_esther.png)
+![Welcome to my profile](https://github.com/esthercamacho/esthercamacho/blob/main/img/banner.png)
 --->
 <!---
 - 👋 Hi, I’m @esthercamacho
